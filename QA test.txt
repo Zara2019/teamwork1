@@ -8,4 +8,3 @@ Typically, these properties indicate the degree to which the component or system
 . performs its functions within an acceptable time frame,
 . this is quite convenient,
 . can be installed and run in the intended environment, and
-. achieves the overall result that the interested parties want.
