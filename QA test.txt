@@ -1,0 +1,11 @@
+Software testing is an investigation conducted to provide interested parties with information about the quality of this software product or service during testing. 
+[1] software Testing can also provide an objective, independent view of the software to allow businesses to evaluate and understand the risks of software implementation.
+Software testing involves running a software component or system component to evaluate one or more properties of interest. 
+Typically, these properties indicate the degree to which the component or system under test is being tested:
+
+. meets the requirements that guide design and development,
+. correctly responds to all types of inputs,
+. performs its functions within an acceptable time frame,
+. this is quite convenient,
+. can be installed and run in the intended environment, and
+. achieves the overall result that the interested parties want.
